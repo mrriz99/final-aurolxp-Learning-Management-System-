@@ -45,7 +45,7 @@ const BecomeInstructor = () => {
               <br />
               <h2>Setup payout to publish courses on AurionproLXP</h2>
               <p className="lead text-warning">
-                Edemy partners with stripe to transfer earnings to your bank
+             AurionproLXP partners with stripe to transfer earnings to your bank
                 account
               </p>
 
