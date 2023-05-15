@@ -5,7 +5,7 @@ This is basically a Learning management System
 
 
 
-## Authors
+## Authors  RAHUL SHARMA 
 
 - [@MRRIZ99](https://github.com/mrriz99).
 Hi, I’m RAHUL SHARMA, a full stack java and web developer. I have been working as a developer for over three years now, and I love creating web applications that are fast, secure, and scalable. I have experience working with HTML, CSS, JavaScript, Java, Spring Boot, Hibernate, MySQL, MongoDB, and AWS. I enjoy learning new technologies and frameworks and applying them to real-world problems. I also like to write clean, modular, and well-documented code that follows best practices.
@@ -34,7 +34,7 @@ How to install this project
     
 ## Demo
 
-Insert gif or link to demo
+
 
 ![login page](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/5db7807e-3071-4f84-9012-23c6894f26a7)
 ![REGISTER PAGE](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/8498c445-e614-4bd5-9455-84208276d375)
