@@ -77,3 +77,4 @@ const BecomeInstructor = () => {
 };
 
 export default BecomeInstructor;
+
