@@ -30,6 +30,7 @@ How to install this project
   10)install part done for client and server
   11) run client use command [npm run dev]
   12) for server use command [npm start]
+  13) Create Account on Stripe and AWS
 ```
     
 ## Demo
