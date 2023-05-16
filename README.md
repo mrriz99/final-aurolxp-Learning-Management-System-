@@ -5,7 +5,7 @@ This is basically a Learning management System
 
 
 
-## Authors  RAHUL SHARMA 
+## Author  RAHUL SHARMA 
 
 - [@MRRIZ99](https://github.com/mrriz99).
 Hi, I’m RAHUL SHARMA, a full stack java and web developer. I have been working as a developer for over three years now, and I love creating web applications that are fast, secure, and scalable. I have experience working with HTML, CSS, JavaScript, Java, Spring Boot, Hibernate, MySQL, MongoDB, and AWS. I enjoy learning new technologies and frameworks and applying them to real-world problems. I also like to write clean, modular, and well-documented code that follows best practices.
