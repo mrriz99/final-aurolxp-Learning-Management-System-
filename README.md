@@ -13,6 +13,7 @@ Hi, I’m RAHUL SHARMA, a full stack java and web developer. I have been working
 
 ## Installation
 
+
 How to install this project 
 
 ```bash
@@ -40,6 +41,7 @@ How to install this project
 
 ![login page](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/5db7807e-3071-4f84-9012-23c6894f26a7)
 ![REGISTER PAGE](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/8498c445-e614-4bd5-9455-84208276d375)
+![forget password](https://github.com/mrriz99/final-aurolxp/assets/67002071/2358f0a0-38ee-461c-9750-2830d0e9914c)
 ![11](https://github.com/mrriz99/final-aurolxp/assets/67002071/735f9d3a-0212-402c-a107-2265b8f26742))
 ![landing page1](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/412629a8-c308-4cbe-b4bc-f84202ecf3f9)
 ![courses](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/2831b4b1-0097-49ad-9a3d-25f35cdf2147)
